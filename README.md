@@ -35,4 +35,4 @@ This project was collaboratively developed by:
 
 ## 🌐 Visit our site:  
 
-[To-Do List Application](https://joeljacobroji.github.io/To-Do-List/)  
+[To-Do List Application](https://joeljacobroji.github.io/To-Do_List_Application-/)  
